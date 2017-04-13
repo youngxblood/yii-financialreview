@@ -129,9 +129,7 @@ class SiteController extends Controller
 
         public function actionFinancial()
     {
-        if ($user !='') {
         return $this->render('financial');
-    }
     }
 }
 

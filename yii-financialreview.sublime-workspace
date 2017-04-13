@@ -152,10 +152,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 354.0,
-		"last_filter": "package sync",
+		"height": 357.0,
+		"last_filter": "bran",
 		"selected_items":
 		[
+			[
+				"bran",
+				"git: branch"
+			],
 			[
 				"package sync",
 				"PackageSync: Backup/Restore - Restore Packages From Folder"
@@ -183,10 +187,6 @@
 			[
 				"push",
 				"git: push"
-			],
-			[
-				"bran",
-				"git: branch"
 			],
 			[
 				"statu",
@@ -261,7 +261,7 @@
 				"Package Control: Disable Package"
 			]
 		],
-		"width": 560.0
+		"width": 538.0
 	},
 	"console":
 	{
@@ -528,6 +528,10 @@
 	},
 	"settings":
 	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
 	},
 	"show_minimap": true,
 	"show_open_files": false,

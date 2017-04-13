@@ -13,6 +13,6 @@ $this->params['breadcrumbs'][] = $this->title;
     <p>
         Here you can see your financial status.
     </p>
-
+  <?php echo session_id(); ?>
     <code><?= __FILE__ ?></code>
 </div>
