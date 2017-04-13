@@ -131,5 +131,10 @@ class SiteController extends Controller
     {
         return $this->render('financial');
     }
+
+            public function actionInput()
+    {
+        return $this->render('input');
+    }
 }
 

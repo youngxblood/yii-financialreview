@@ -4,7 +4,7 @@
 
 use yii\helpers\Html;
 
-$this->title = 'Financial';
+$this->title = 'Input Finances';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="site-about">
@@ -14,5 +14,8 @@ $this->params['breadcrumbs'][] = $this->title;
         Here you can see your financial status.
     </p>
 
-    <code><?= __FILE__ ?></code>
+
 </div>
+
+<p>adawdwa</p>
+
